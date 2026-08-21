@@ -24,4 +24,4 @@
 ---
 
 ### 🏙️ 3D Contribution Graph
-![3D Graph](https://raw.githubusercontent.com/arinupadhyay/arinupadhyay/main/profile-3d-contrib/profile-night-view.svg)
+![3D Graph](./profile-3d-contrib/profile-night-view.svg)
