@@ -10,10 +10,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arinupadhyay&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinupadhyay&layout=donut&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arinupadhyay&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arinupadhyay&layout=donut&theme=tokyonight" height="170"/>
 </div>
-
 ---
 
 ### 🐍 Contribution Snake
@@ -22,4 +21,4 @@
 ---
 
 ### 🏙️ 3D Contribution Graph
-![3D Graph](./profile-3d-contrib/profile-night-view.svg)
+![3D Graph](https://raw.githubusercontent.com/arinupadhyay/arinupadhyay/main/profile-3d-contrib/profile-night-view.svg)
