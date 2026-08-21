@@ -13,8 +13,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arinupadhyay&show_icons=true&include_all_commits=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arinupadhyay&layout=donut&theme=tokyonight&hide_title=false" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arinupadhyay&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arinupadhyay&layout=donut&theme=tokyonight&cache_seconds=1800" height="170"/>
 </div>
 ---
 
