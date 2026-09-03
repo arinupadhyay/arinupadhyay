@@ -11,14 +11,14 @@
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-### 📊 GitHub Stats
+### 📊   GitHub Stats!!!!!
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arinupadhyay&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=0" height="170"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arinupadhyay&layout=donut&theme=tokyonight&hide_title=false&cache_seconds=0" height="170"/>
 </div>
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake!!!!!
 ![Snake Animation](https://raw.githubusercontent.com/arinupadhyay/arinupadhyay/output/github-contribution-grid-snake.svg)
 
 ---
